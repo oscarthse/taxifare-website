@@ -3,3 +3,6 @@ datetime
 requests
 pandas
 numpy
+folium
+openrouteservice
+streamlit_folium
